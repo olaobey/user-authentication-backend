@@ -30,5 +30,8 @@
     "readable-stream": "^4.4.2",
     "uuid": "^9.0.0",
     "winston": "^3.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
   }
 }
