@@ -29,8 +29,6 @@ app.use(cors({ origin: '*' }));
 
 app.use(helmet());
 
-app.set('trust proxy', true)
-
 // Prevent parameter pollution
 app.use(hpp());
 
