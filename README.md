@@ -104,7 +104,6 @@ If you'd like to contribute to the Project Name, follow these steps:
 - jsonwebtoken
 - mongoose
 - helmet
-- express-rate-limit
 - morgan
 - path
 - winston
