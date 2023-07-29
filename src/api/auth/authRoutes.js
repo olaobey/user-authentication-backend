@@ -15,6 +15,6 @@ router
   .post(registrationValidator(), validate, authController.register);
 
 
-router.route('/login').post( loginValidator(), validate, logLimiter, authController.login);
+router.route('/login').post(logLimiter, loginValidator(), validate, authController.login);
 
 module.exports = router;
