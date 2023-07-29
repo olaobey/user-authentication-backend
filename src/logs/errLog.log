@@ -1,0 +1,1 @@
+20230728	19:28:54	2c055963-2906-4ed6-b3cf-1449c4e09451	ReferenceError: err is not defined	POST	/api/v1/auth/register	undefined
