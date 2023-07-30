@@ -70,17 +70,6 @@ following environment variables:
 ## **Running**
 
 To start the API, **`run npm start dev`**.
-
-## **E-Contributing**
-
-If you'd like to contribute to the Project Name, follow these steps:
-
-1. Fork the repository using this link: [GitHub](https://github.com/olaobey/user-authentication-backend)
-2. Create a new branch for your changes
-3. Make your changes and commit them to your branch
-4. Push your branch to your forked repository
-5. Create a pull request to merge your changes into the main repository
-
 ## **API Endpoints**
 
 ## **Base_Url**
@@ -94,7 +83,7 @@ If you'd like to contribute to the Project Name, follow these steps:
 
 ### **Dashboard**
 
-- POST /dashboard/create: `Create a new dashboard.`
+- GET /home/dashboard: `Get to a dashboard.`
 
 ## **Built With**
 
