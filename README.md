@@ -74,16 +74,16 @@ To start the API, **`run npm start dev`**.
 
 ## **Base_Url**
 
-[BASE_URL](https://user-authentication.up.railway.app/api/v1)
+[BASE_URL](https://user-authentication.up.railway.app)
 
 ### **Authentication**
 
-- POST /auth/register: `Register a new user.`
-- POST /auth/login: `Log in and generate a JWT token.`
+- POST /api/v1/auth/register: `Register a new user.`
+- POST /api/v1/auth/login: `Log in and generate a JWT token.`
 
 ### **Dashboard**
 
-- GET /home/dashboard: `Get to a dashboard.`
+- GET /api/v1/home/dashboard: `Get to a dashboard.`
 
 ## **Built With**
 
