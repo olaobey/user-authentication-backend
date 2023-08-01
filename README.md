@@ -74,7 +74,7 @@ To start the API, **`run npm start dev`**.
 
 ## **Base_Url**
 
-[BASE_URL](https://user-authentication.up.railway.app)
+[BASE_URL](https://user-authentication-backend-5vef.onrender.com)
 
 ### **Authentication**
 
